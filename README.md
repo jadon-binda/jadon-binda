@@ -61,7 +61,7 @@ I'm looking for an opportunity in the development area and at the moment I'm stu
   <a href = "mailto:jadon.binda@gmail.com">
     <img  src="./icons/gmail-icon.svg" target='_blank' title='GMAIL' width='48px'>
   </a>
-  <a href="https://www.linkedin.com/in/jadon-samuel-binda" target="_blank">
+  <a href="https://www.linkedin.com/in/jadon-samuel" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target='_blank' title='LINKEDIN'  width='48px' />
   </a> 
 </section>
