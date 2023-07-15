@@ -1,8 +1,9 @@
 ## Jadon Binda
 
 Hi Devs and Community! Welcome to my github page!<br>
-My name is Jadon, live in BH 🇧🇷, a Galo supporter and I love sports (more watching than doing), specially ⚽ and 🏀.<br>
-I'm looking for an opportunity in the development area and at the moment I'm studying software development (full stack) at [Cubos Academy](https://cubos.academy/).<br> My dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
+My name is Jadon, live in BH 🇧🇷, love sports, specially ⚽ and 🏀, watching movies and reading books about history, spirituality and philosophy.<br>
+I'm looking for an first opportunity in the development area. I graduated in Information Systems at Fumec and studied software development (FullStack) at [Cubos Academy](https://cubos.academy/).<br> I love to learn and I never stop studying. I'm currently taking courses on Udemy and Cubos Academy and preparing for public tenders.<br>
+My dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
 
 <hr>
 
