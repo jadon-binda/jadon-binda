@@ -2,7 +2,7 @@
 
 Hi Devs and Community! Welcome to my github page! 
 My name is Jadon, live in BH, a Galo supporter and i'm looking for an opportunity in the development area.
-At the moment I'm studying software development (full stack) at [Cubos Academy](https://cubos.academy/) and my dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
+At the moment I'm studying software development (FullStack) at [Cubos Academy](https://cubos.academy/) and my dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
 
 <hr>
 
@@ -12,9 +12,10 @@ At the moment I'm studying software development (full stack) at [Cubos Academy](
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML5' width='40px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title='CSS3' width='40px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title='JAVASCRIPT' width='40px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title='TTPESCRIPT' width='40px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title='NODEJS' width='40px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title='REACT' width='40px'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title='POSTGRES' width='40px'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title='POSTGRESQL' width='40px'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title='VSCODE' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title='NPM' width='40px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title='GIT' width='40px' />
