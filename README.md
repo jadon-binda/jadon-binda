@@ -1,8 +1,8 @@
 ## Jadon Binda
 
-Hi Devs and Community! Welcome to my github page! 
-My name is Jadon, live in BH, a Galo supporter and i'm looking for an opportunity in the development area.
-At the moment I'm studying software development (FullStack) at [Cubos Academy](https://cubos.academy/) and my dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
+Hi Devs and Community! Welcome to my github page!<br>
+My name is Jadon, live in BH 🇧🇷, a Galo supporter and I love sports (more watching than doing), specially ⚽ and 🏀.<br>
+I'm looking for an opportunity in the development area and at the moment I'm studying software development (full stack) at [Cubos Academy](https://cubos.academy/).<br> My dream is one day be able to use technology to collaborate with nature, the environment and sustainability.
 
 <hr>
 
@@ -42,12 +42,13 @@ At the moment I'm studying software development (FullStack) at [Cubos Academy](h
 
 <hr>
 
-### 🏹 Stats:
+### 📈 Stats:
 <section align='center'>
   <a href='https://github.com/jadon-binda/'>
     <img height='180em' src='https://github-readme-stats-eight-theta.vercel.app/api?username=jadon-binda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true' />
-    <img height='180em' src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadon-binda&langs_count=10&layout=compact&theme=chartreuse-dark' />
+    <img height='180em' src='https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadon-binda&langs_count=8&layout=compact&theme=chartreuse-dark' />
   </a>
+  <br>
   <br>
   <a href="https://wakatime.com/@0c91159a-56cc-4494-aadb-6c0bcdb1262b">
     <img src="https://wakatime.com/badge/user/0c91159a-56cc-4494-aadb-6c0bcdb1262b.svg" alt="Total time coded since Apr 20 2022" />
@@ -61,7 +62,7 @@ At the moment I'm studying software development (FullStack) at [Cubos Academy](h
   <a href = "mailto:jadon.binda@gmail.com">
     <img  src="./icons/gmail-icon.svg" target='_blank' title='GMAIL' width='48px'>
   </a>
-  <a href="https://www.linkedin.com/in/jadon-samuel-binda" target="_blank">
+  <a href="https://www.linkedin.com/in/jadon-samuel" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target='_blank' title='LINKEDIN'  width='48px' />
   </a> 
 </section>
